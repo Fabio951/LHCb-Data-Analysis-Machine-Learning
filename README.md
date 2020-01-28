@@ -17,3 +17,5 @@ The Machine Learning techniques exploited in this project are:
 - Gradient Boosting with Random Forests
 - Deep Neural Networks
 - Ensemble of all the previous classifier joined with a perceptron
+
+Some bugs may be present. For any information, please do not hesitate to contact me at fabio.semenzato@gmail.com.
